@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything I can get my hands on
 - 📫 How to reach me: <a href="mailto:albinarubanchuk@gmail.com">albinarubanchuk@gmail.com</a>
 
-<h2>My stack:</h2>
+<h3>My stack:</h3>
 
 <img src="https://user-images.githubusercontent.com/95575093/224682761-a71324e7-1f2a-48cf-8983-d5e1380a48ab.png" width="32px" style="max-width: 100%;" alt="html">
 <img src="https://user-images.githubusercontent.com/95575093/224686988-0500ce4b-36ad-4218-be21-3517bf47b23d.png" width="32px" style="max-width: 100%;" alt="css">
