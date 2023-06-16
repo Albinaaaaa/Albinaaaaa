@@ -1,7 +1,8 @@
 **Hi there, I’m Albina 👋**
 - 👀 I’m interested in a lot of different stuff
 - 🌱 I’m currently learning everything I can get my hands on
-- 📫 How to reach me: <a href="mailto:albinarubanchuk@gmail.com">albinarubanchuk@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:albinarybanchuk@gmail.com
+">albinarybanchuk@gmail.com</a>
 
 <div>
 <h3>My stack:</h3>
