@@ -33,18 +33,18 @@
 </div>
 <h3 align="center">General skills: </h5>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" alt="html"/>
-  <img src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json" alt="html"/>
-  <img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint" alt="html"/>
-  <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="html"/>
-  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" alt="html"/>
-  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira" alt="html"/>
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" alt="git"/>
+  <img src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json" alt="json"/>
+  <img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint" alt="eslint"/>
+  <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="figms"/>
+  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" alt="photoshop"/>
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira" alt="jira"/>
   
 </div>
 <h3>Contact: </h5>
 <div>
   <a href="https://t.me/aaalbinaaaa"><img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/albina-rybanchuk-838019236/" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/albina-rybanchuk-838019236/" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
 </div>
 
 
