@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" alt="html"/>
   <img src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json" alt="html"/>
   <img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint" alt="html"/>
+  <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="html"/>
+  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" alt="html"/>
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira" alt="html"/>
   
 </div>
 <h3>Contact: </h5>
